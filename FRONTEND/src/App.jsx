@@ -3,7 +3,7 @@ import "./App.css";
 import { BrowserRouter as Router } from "react-router-dom";
 import { Toaster } from "react-hot-toast";
 import Navbar from "./components/Navbar";
-import HeroSection from "./components/Herosection";
+import HeroSection from "./components/HeroSection";
 import Services from "./components/Services";
 import About from "./components/About";
 import Contact from "./components/Contact";
